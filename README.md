@@ -6,25 +6,18 @@ Welcome to the **Ultimate Collection of End-to-End Data Science Projects**! This
 
 Below is a list of the projects included in this repository. Each project has its own folder containing all the necessary files, including datasets, code, and a detailed README file that explains the project in depth.
 
-### 1. **[Project Name 1](https://github.com/AnoopGeorge418/DATA-SCIENCE-PROJECTS/tree/main/Project-Name-1)**
+### 1. **[Student Performance Indicator](https://github.com/AnoopGeorge418/Student-Performance-Indicator.git)**
 
-   - **Description:** Brief description of what the project is about.
-   - **Technologies Used:** Python, Pandas, Scikit-learn, etc.
+   - **Description:** Developing a model that helps to predict students performance by analyzing various features.
+   - **Technologies Used:** Python, Pandas, Scikit-learn, Aws, Git, GitHub, etc.
    - **Key Learnings:** Data preprocessing, feature engineering, model training, etc.
 
-### 2. **[Project Name 2](https://github.com/AnoopGeorge418/DATA-SCIENCE-PROJECTS/tree/main/Project-Name-2)**
+### 2. **[House Price Indicator](https://github.com/AnoopGeorge418/House-Price-Predictor) - [Working On It]**
 
-   - **Description:** Brief description of what the project is about.
+   - **Description:** Predicting House Prices From The Available Features - Regression Project.
    - **Technologies Used:** Python, TensorFlow, Keras, etc.
    - **Key Learnings:** Deep learning, neural networks, model optimization, etc.
 
-### 3. **[Project Name 3](https://github.com/AnoopGeorge418/DATA-SCIENCE-PROJECTS/tree/main/Project-Name-3)**
-
-   - **Description:** Brief description of what the project is about.
-   - **Technologies Used:** R, ggplot2, dplyr, etc.
-   - **Key Learnings:** Data visualization, statistical analysis, etc.
-
-*(Add more projects as you go)*
 
 ## 🎯 Project Structure
 
@@ -49,10 +42,10 @@ Feel free to reach out if you have any questions or suggestions! You can find me
 
 ## 🛠️ Tools & Technologies
 
-- **Programming Languages:** Python, R
-- **Data Analysis:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Data Visualization:** Matplotlib, Seaborn, ggplot2, Plotly
-- **Deployment:** Flask, Docker, Heroku
+- **Programming Languages:** Python
+- **Data Analysis:** Pandas, NumPy, Scikit-learn
+- **Data Visualization:** Matplotlib, Seaborn
+- **Deployment:** Flask, Heroku, Aws
 - **Other Tools:** Jupyter, Git, GitHub
 
 ## 🌐 License
