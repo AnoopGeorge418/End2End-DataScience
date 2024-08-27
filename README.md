@@ -61,12 +61,4 @@ This repository is licensed under the MIT License. Feel free to use the code, bu
 
 ---
 
-Thank you for visiting! If you like what you see, don't forget to ⭐ this repository! Let's make data science fun and accessible to everyone.
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnoopGeorge418&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoopGeorge418&layout=compact&theme=radical)
-
-</div>
+**Thank you for visiting! If you like what you see, don't forget to ⭐ this repository! Let's make data science fun and accessible to everyone.**
