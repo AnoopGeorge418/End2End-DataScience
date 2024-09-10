@@ -12,11 +12,11 @@ Below is a list of the projects included in this repository. Each project has it
    - **Technologies Used:** Python, Pandas, Scikit-learn, Aws, Git, GitHub, etc.
    - **Key Learnings:** Data preprocessing, feature engineering, model training, etc.
 
-### 2. **[House Price Indicator](https://github.com/AnoopGeorge418/House-Price-Predictor) - [Working On It]**
+### 2. **[ForestFire Prediction System](https://github.com/AnoopGeorge418/ForestFire-Prediction-System)**
 
-   - **Description:** Predicting House Prices From The Available Features - Regression Project.
-   - **Technologies Used:** Python, TensorFlow, Keras, etc.
-   - **Key Learnings:** Deep learning, neural networks, model optimization, etc.
+   - **Description:** Predicting Forest Fire From The Available Features - Linear Regression(l1, l2, ElasticNet) Project.
+   - **Technologies Used:** Python, ML, Data Science Lif Cycle, etc.
+   - **Key Learnings:** Machine learning, EDA, model optimization, Python, etc.
 
 
 ## 🎯 Project Structure
