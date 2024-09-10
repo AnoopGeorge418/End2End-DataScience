@@ -17,6 +17,7 @@ Below is a list of the projects included in this repository. Each project has it
    - **Description:** Predicting Forest Fire From The Available Features - Linear Regression(l1, l2, ElasticNet) Project.
    - **Technologies Used:** Python, ML, Data Science Lif Cycle, etc.
    - **Key Learnings:** Machine learning, EDA, model optimization, Python, etc.
+   - **App Demo:** [Forest-Fire-Prediction-System](http://forestfirepredictionsystemapp-env.eba-i7utuwjv.eu-north-1.elasticbeanstalk.com/)
 
 
 ## 🎯 Project Structure
