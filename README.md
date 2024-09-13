@@ -19,7 +19,7 @@ Below is a list of the projects included in this repository. Each project has it
    - **Key Learnings:** Machine learning, EDA, model optimization, Python, etc.
    - **App Demo:** [Forest-Fire-Prediction-System](http://forestfirepredictionsystemapp-env.eba-i7utuwjv.eu-north-1.elasticbeanstalk.com/)
 
-### 2. **[House Price Prediction](https://github.com/AnoopGeorge418/House-Price-Predictor)**
+### 3. **[House Price Prediction](https://github.com/AnoopGeorge418/House-Price-Predictor)**
 
    - **Description:** Predicting House Price From The Available Features - Simple Linear Regression(l1, l2, ElasticNet, l1cv, l2cv, ElasticNetcv, Cross validation) Project.
    - **Technologies Used:** Python, ML, Data Science Lif Cycleetc.
