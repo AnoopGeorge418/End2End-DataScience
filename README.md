@@ -26,6 +26,13 @@ Below is a list of the projects included in this repository. Each project has it
    - **Key Learnings:** Machine learning, EDA, model optimization, Python, cross validation, etc.
    - **App Demo:** [House Price Prediction](http://housepriceprediction-env.eba-2nsnmvcn.eu-north-1.elasticbeanstalk.com/)
 
+### 4. **[Game Performance Prediction](https://github.com/AnoopGeorge418/Players-In_Game-Performance_Score-Prediction)**
+
+   - **Description:** Predicting Players In Geme Performance From The Available Features - Linear Regression Project.
+   - **Technologies Used:** Python, ML, Data Science Lif Cycleetc.
+   - **Key Learnings:** Machine learning, EDA, model optimization, Python, cross validation, etc.
+   - **App Demo:** [Game Performance Prediction](http://game-performance-prediction-env.eba-2npwp96d.eu-north-1.elasticbeanstalk.com/)
+
 ## 🎯 Project Structure
 
 Each project is structured as follows:
